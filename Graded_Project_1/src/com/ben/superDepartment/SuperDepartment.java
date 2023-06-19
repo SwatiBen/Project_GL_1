@@ -4,7 +4,6 @@ abstract public class SuperDepartment {
 
 	public String departmentName() {
 		return "Super Department";
-
 	}
 
 	public String getTodaysWork() {

@@ -21,7 +21,5 @@ public class Driver {
 		System.out.printf("Welcome to " + techObj.departmentName() + "\n" + techObj.getTodaysWork() + "\n"
 				+ techObj.getWorkDeadline() + "\n" + techObj.getTechStackInformation() + "\n"
 				+ techObj.isTodayAHoliday());
-
 	}
-
 }
